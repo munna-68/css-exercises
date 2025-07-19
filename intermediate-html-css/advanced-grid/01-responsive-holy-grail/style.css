@@ -6,7 +6,7 @@ html {
 
 .container {
   text-align: center;
-  height: 100vh;
+  height: 100%;
   padding: 16px;
   box-sizing: border-box;
   display: grid;
